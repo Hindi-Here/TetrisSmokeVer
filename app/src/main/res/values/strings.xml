@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cubres</string>
+    <string name="best_score">Best: %d</string>
+    <string name="current_score">Score: %d</string>
+</resources>
